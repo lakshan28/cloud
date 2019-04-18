@@ -1,0 +1,167 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-color {
+  background-color: #F4ECF7;
+  height: 89px;
+}
+.logo {
+    height: 70px;
+   width: 70;
+    padding-left: 40px
+}
+
+.logo1 {
+    height: 70px;
+    width: 70px;
+    padding-top: 0;
+    
+}
+.naaa {
+    position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+ 
+  z-index: 1;
+}
+.navbar-brand {
+    padding-left: 50px;
+}
+.navbar-nav {
+    padding-left: 380px !important ;
+}
+.nav-item {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-nav  li a {
+    font-size: 20px;
+   
+    
+}
+
+.navbar-nav  li a:hover {
+    border-right: 3px solid #ff4f81;
+    border-left: 3px solid #ff4f81;
+    transition: 0.5s all;
+   color: #EC7063
+}
+.faculty{
+    color: #1565C0;  
+    
+}
+
+
+  .form-inline {
+    float: right;
+  }
+
+  .carousel-inner,.item {
+     
+    height: 750px;
+  }
+  h3 {
+      color: teal;
+  }
+  .col-sm-4 {
+     
+     
+     margin-left: 180px;
+     border-color: rgb(7, 114, 185);  
+     border-style: solid;
+    
+    
+    overflow: auto;
+    justify-content: center;
+     
+  }
+
+  .top1 {
+      text-align: center;
+      color: rgb(1, 8, 15);
+      font-size: 75px;
+      font-family: 'Monoton', cursive;
+  }
+  .tt {
+    padding-left: 20px;
+  }
+  .ttttt{
+    background-image: url(../13.jpg)
+  }
+  .tttttt {
+    background-image: url(../14.jpg)
+  }
+  
+  
+  
+  .level11 {
+    
+   text-align: center;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    }
+    .level111 {
+    
+        text-align: center;
+         font-size: 50px;
+         font-family: 'Pacifico', cursive;
+         }
+    .level11:hover {
+        color: #ff4f81;
+        font-size: 53px;
+        transition: 0.5s all; 
+    }
+
+  .lev {
+      color: rgb(3, 51, 97);
+     
+      font-size: 25px
+  }
+  .lev1 {
+    color: rgb(3, 51, 97);
+   
+    font-size: 25px
+  }
+  .lev:hover {
+      color: #ff4f81;
+      font-size: 27px;
+      transition: 0.5s all;
+  }
+  .link1:hover {
+      color: #ff4f81
+  }
+
+  .map {
+    border-radius: 2px solid #000;
+    background: #fff;
+    padding: 1em;
+}
+.map iframe {
+    width: 100%;
+    height: 400px;
+    border: none;
+  
+}
+.map1 {
+    font-size: 40px;
+    color: blue;
+}
+.map1:hover {
+    color: #ff4f81;
+    font-size: 42px;
+    transition: 0.5s all;
+}
+img {
+   
+    width: 2000px;
+}
+
+.mid-row {
+    margin-left: 50px;
+}
+.contact{
+    float: right;
+}
